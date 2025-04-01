@@ -1,6 +1,6 @@
 # Multi-Threaded Downloader 
 
-Ayo dawg, this ain't your grandma's downloader, nah fr 😭. This shi uses **INSANE** thread counts to finesse slow download speeds and absolutely **CLOWN** throttling. Get ur files **FAST AF** 🚀💨.
+Ayo dawg, this ain't your grandma's downloader. This shi uses **INSANE** thread counts to finesse slow download speeds and absolutely **CLOWN** throttling. Get ur files **FAST AF** 🚀💨.
 
 ## 🛠 Features
 - **Multi-threaded supremacy** 🧵 upto 200 (or whatever ur PC can handle b4 combusting 💀)
