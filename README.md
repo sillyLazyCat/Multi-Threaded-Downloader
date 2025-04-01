@@ -6,8 +6,7 @@ Ayo dawg, this ain't your grandma's downloader, nah fr 😭. This shi uses **INS
 - **Multi-threaded supremacy** 🧵 upto 200 (or whatever ur PC can handle b4 combusting 💀)
 - **Bypass throttling** 💨💨 (they can't stop all of us, bro)
 - **Real-time thread visualization** 📊 (watch dem little squares go brrr 🟩🟩🟩)
-- **Pause/Resume/Stop** (cuz life be unpredictable fr 😔)
-
+  
 ## 📥 How to Use
 1. **Drop the File URL** 🔗 (paste that bad boi in)
 2. **Set ur Threads**
