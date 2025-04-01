@@ -2,6 +2,8 @@
 
 Ayo dawg, this ain't your grandma's downloader. This shi uses **INSANE** thread counts to finesse slow download speeds and absolutely **CLOWN** throttling. Get ur files **FAST AF** 🚀💨.
 
+![Preview](window.png)
+
 ## 🛠 Features
 - **Multi-threaded supremacy** 🧵 upto 200 (or whatever ur PC can handle b4 combusting 💀)
 - **Bypass throttling** 💨💨 (they can't stop all of us, bro)
@@ -15,7 +17,6 @@ Ayo dawg, this ain't your grandma's downloader. This shi uses **INSANE** thread 
    - Hold Shift while adjusting thread count to unlock 1000 threads (use at ur own risk, dawg 💀🔥).
 3. **Smash Download** 
 
-![Preview](window.png)
 
 - Built with **Python** 🛠
 - Uses **parallel requests** xddd
